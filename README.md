@@ -75,7 +75,7 @@ The `mergebot` will take care of the rest!
        src="https://raw.githubusercontent.com/mig42/teamcityplug/master/doc/img/project-configuration.png" />
 </p>
 
-When the **mergebot<** requests a new build run or an existing build status
+When the **mergebot** requests a new build run or an existing build status
 from the **TeamCity plug**, it calls the remote TeamCity API using the URL and
 credentials in the plug configuration.
 
