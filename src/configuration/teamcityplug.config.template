@@ -1,0 +1,20 @@
+﻿[
+   {
+      "name":"url",
+      "displayName":"TeamCity URL",
+      "type":"string",
+      "description":"The base URL of your TeamCity server."
+   },
+   {
+      "name":"user",
+      "displayName":"User",
+      "type":"string",
+      "description":"User name to connect to TeamCity."
+   },
+   {
+      "name":"password",
+      "displayName":"Password",
+      "type":"password",
+      "description":"Password to connect to TeamCity."
+   }
+]
