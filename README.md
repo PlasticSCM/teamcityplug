@@ -39,7 +39,7 @@ They use the plug to launch builds in a TeamCity server and retrieve the build s
 When a mergebot requires a CI plug to work, you can select a TeamCity Plug Configuration.
 
 <p align="center">
-  <img alt="CI plug select" src="https://raw.githubusercontent.com/mig42/teamcityplug/master/doc/img/ci-plug-select.png" />
+  <img alt="CI plug select" src="https://raw.githubusercontent.com/PlasticSCM/teamcityplug/master/doc/img/ci-plug-select.png" />
 </p>
 
 You can either select an existing configuration or create a new one.
@@ -48,7 +48,7 @@ When you create a new TeamCity Plug Configuration, you have to fill in the follo
 
 <p align="center">
   <img alt="teamcityplug configuration example"
-       src="https://raw.githubusercontent.com/mig42/teamcityplug/master/doc/img/configuration-example.png" />
+       src="https://raw.githubusercontent.com/PlasticSCM/teamcityplug/master/doc/img/configuration-example.png" />
 </p>
 
 ## Installation requirements - The TeamCity Lightweight Plugin
@@ -72,7 +72,7 @@ The `mergebot` will take care of the rest!
 
 <p align="center">
   <img alt="Project configuration"
-       src="https://raw.githubusercontent.com/mig42/teamcityplug/master/doc/img/project-configuration.png" />
+       src="https://raw.githubusercontent.com/PlasticSCM/teamcityplug/master/doc/img/project-configuration.png" />
 </p>
 
 When the **mergebot** requests a new build run or an existing build status
